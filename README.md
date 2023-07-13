@@ -5,14 +5,17 @@
 
 - 🌱 I’m currently learning **Golang and Django**
 
-- 📝 I regularly write articles on [Nashtech Blogs](Nashtech Blogs)
+- 📝 I regularly write articles on [https://blog.nashtechglobal.com/?s=saifi](https://blog.nashtechglobal.com/?s=saifi)
 
-- 💬 Ask me about **DevOps tools and many more**
+- 💬 Ask me about **DevOps tools.**
 
-- 📫 How to reach me **sample.gmail.com**
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="/https://blog.knoldus.com/author/muzakkirsaifi/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.knoldus.com/author/muzakkirsaifi/feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
